@@ -5,7 +5,7 @@
 
 The system is designed to display different time periods of the day ("SANG" - Morning, "TRUA" - Noon, "CHIEU" - Afternoon, "TOI" - Night) on the LCD based on user input. The project is implemented using Verilog HDL and tested through simulation and real hardware execution.
 
-![LCD display}(https://github.com/giangday/Communication-between-FPGA-and-LCD/blob/main/demo_lcd.jpg?raw=true)
+![LCD display](https://github.com/giangday/Communication-between-FPGA-and-LCD/blob/main/demo_lcd.jpg?raw=true)
 
 ## Features
 
